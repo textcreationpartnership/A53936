@@ -1,0 +1,618 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Four small copies of verses upon sundry occasions</title>
+            <author>Peers, Richard, 1645-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53936</idno>
+            <idno type="STC">Wing P1056</idno>
+            <idno type="STC">ESTC R8833</idno>
+            <idno type="EEBO-CITATION">13534287</idno>
+            <idno type="OCLC">ocm 13534287</idno>
+            <idno type="VID">100023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100023)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 471:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Four small copies of verses upon sundry occasions</title>
+                  <author>Peers, Richard, 1645-1690.</author>
+               </titleStmt>
+               <extent>[6], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. H. for Thomas Bowman,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Peers. Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100023:1"/>
+            <pb facs="tcp:100023:1" rendition="simple:additions"/>
+            <p>FOUR SMALL COPIES OF VERSES UPON SUNDRY OCCASIONS</p>
+            <q>Hei mihi! quam multis ſic quoque longus eris? <bibl>Mart. Epigr. lib. 2.</bibl>
+            </q>
+            <p>
+               <add>By Richard Pee<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Christ-Church.</add>
+            </p>
+            <p>
+               <hi>OXFORD,</hi> Printed by W. H. for <hi>Thomas Bowman,</hi> 1667.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100023:2"/>
+            <pb facs="tcp:100023:2"/>
+            <head>READER,</head>
+            <p>
+               <seg rend="decorInit">N</seg>Either the Intereſt nor Importunity of <hi>Friends</hi> extorted theſe few lines from me: it was the publication of ſome former verſes, too much mine and the worlds <hi>enemies.</hi> I am trou<g ref="char:EOLhyphen"/>bleſome to you at preſent becauſe I have been infinitely ſo already; and the reaſon of this bold appearance is not that <hi>I do well</hi> now, but that I have before done <hi>worſe. Re<g ref="char:EOLhyphen"/>pentance</hi> is the ready way to pardon, and <hi>amendment</hi> (how weak ſoever) is the beſt ſymptom, (becauſe the na<g ref="char:EOLhyphen"/>turall effect) of Repentance. I need not give you a liſt of my former errors: they were too groſſe not to be notori<g ref="char:EOLhyphen"/>ous; and <hi>bad Poetry</hi> is a <hi>ſin</hi> againſt too <hi>many,</hi> to hope for indulgence. Beſides as Muſick (and <hi>Poetry</hi> is <hi>Mu<g ref="char:EOLhyphen"/>ſick ſet</hi> to <hi>Reaſon)</hi> is a pleaſure which few men are inſen<g ref="char:EOLhyphen"/>ſible of; ſo is there no averſion comparable to that which makes us fly from the <hi>harſhneſs</hi> of notes, and the <hi>gratings</hi> of irregular ſounds. But to come to a more ſolemne con<g ref="char:EOLhyphen"/>feſſion, it was with me as with moſt young <hi>Rhymers,</hi> who ſeem to make good the aſſertion of their adverſaries; that they <hi>ſweat</hi> at the <hi>Anvil,</hi> and that toyl and Induſtry, is the
+<pb facs="tcp:100023:3"/>
+very eſſence of their skill, becauſe their ſtudy is only to hammer out a few thin vaniſhing <hi>flaſhes,</hi> and their produ<g ref="char:EOLhyphen"/>ctions nothing elſe but the ordinary mechanick reſults of <hi>fire</hi> and <hi>water.</hi> Indeed when they might write <hi>eaſier,</hi> and write <hi>better,</hi> they love to be <hi>painfully</hi> ridiculous, and to expoſe themſelves with a great deal of <hi>Care.</hi> I mean not that accuracy of <hi>judgment</hi> which often paſſes <hi>ſentence</hi> with too much rigour, when the Author <hi>ſits</hi> upon every word he writes: It is the unneceſſary toyle and travel of the <hi>fan<g ref="char:EOLhyphen"/>cy</hi> which is culpable here; for certainly it muſt needs be leſs troubleſome to make uſe of ſuch pertinent thoughts as upon a free and eaſy meditation naturally ariſe from the ſub<g ref="char:EOLhyphen"/>ject, and (as it were) meet the imagination halfe way; then after a tedious reſearch under pretence of hoping for ſome<g ref="char:EOLhyphen"/>what that's <hi>new</hi> and <hi>extraordinary,</hi> to huddle together ſuch <hi>things</hi> as being infinitely <hi>diſtant</hi> in <hi>nature,</hi> will not eaſily be <hi>connected</hi> in <hi>ſpeech:</hi> where beſides, that this <hi>wandring abroad</hi> is often accompanied with the neglect and loſſe of our <hi>Mother-tongue,</hi> we commonly bring home the <hi>outlan<g ref="char:EOLhyphen"/>diſh</hi> Gallantry of <hi>Duelling;</hi> love dearly to make one <hi>word</hi> give another the <hi>lie,</hi> teach every <hi>period</hi> to <hi>affront</hi> his next neighbour, and are infinitely pleas'd with the <hi>ſcuffle</hi> of two <hi>jarring</hi> elements; while in the mean time the <hi>expreſſi<g ref="char:EOLhyphen"/>on</hi> proves an unfortunate <hi>ſtickler</hi> between two irreconcilable <hi>enemies,</hi> and ſeldom comes off better then <hi>maim'd</hi> or <hi>wounded.</hi> Another fault incident to young Scriblers is
+<pb facs="tcp:100023:3"/>
+(more bold and daring then the former) their downright falſifying the naturall circumstances of their <hi>ſubject;</hi> (and the circumſtances of a ſubject are the materials of inventi<g ref="char:EOLhyphen"/>on) like pitiful <hi>Archers,</hi> ſtill ſhifting the <hi>mark,</hi> juſt as their <hi>roving</hi> fancy chances to direct them: they ſeem to en<g ref="char:EOLhyphen"/>deavour that their productions may bear ſo near a reſem<g ref="char:EOLhyphen"/>blance to the <hi>Immortality</hi> they vainly pretend to, as not to be ty'd to the <hi>Accidents,</hi> nor limited or <hi>circumſcrib'd</hi> by the <hi>conditions</hi> of their <hi>matter:</hi> ſo bodly dare they ven<g ref="char:EOLhyphen"/>ture upon the moſt impertinent <hi>Improbabilities,</hi> for the uſhering in of a few empty <hi>Equivocations;</hi> which is little better then the impudent aſſerting of <hi>one lie,</hi> by the dexterous forging of <hi>another.</hi> And now it is very probable that ere this I have ſufficiently diſpleaſed my <hi>Reader,</hi> who may im<g ref="char:EOLhyphen"/>pute that to <hi>Arrogance</hi> and <hi>Preſumption</hi> which I term a ſerious <hi>acknowledgment.</hi> But if his <hi>malice</hi> be not con<g ref="char:EOLhyphen"/>cern'd before his <hi>Judgment,</hi> I think he will eaſily perceive that though I may ſeem to intend the <hi>guidance</hi> of other mens <hi>Pens,</hi> yet my real deſign is no other then to faſhion a <hi>Rule</hi> for my own <hi>lines,</hi> heretofore <hi>crooked, unequal,</hi> and wholly <hi>irregular.</hi> And the <hi>incivility</hi> of thoſe men, methinks, is very ſtrange, who will not give me leave to <hi>condemn</hi> my <hi>ſelf,</hi> only becauſe it ſeems a diminiſhing of their right, and an entrenching upon their pretended <hi>Priviledge</hi> and <hi>Juriſ<g ref="char:EOLhyphen"/>diction.</hi> Indeed I ſhall ſubſcribe to the ſevereſt <hi>Judge<g ref="char:EOLhyphen"/>ment</hi> they can poſſibly <hi>paſs</hi> upon my former notorious <hi>Cri<g ref="char:EOLhyphen"/>minals,</hi> which I could wiſh were not mitigated with the leaſt tincture of <hi>mercy;</hi> ſo neceſſary is the reſervation of
+<pb facs="tcp:100023:4"/>
+all the power and force of the moſt <hi>entire candour</hi> for the acquitting of my enſuing pages; which I am really ſenſible have no <hi>luſtre</hi> in them but when thoſe extravagant imperti<g ref="char:EOLhyphen"/>nencies become their <hi>foyle.</hi> Indeed conſidering the generality of <hi>Readers,</hi> it would ſeem not at all for my Intereſt to pre<g ref="char:EOLhyphen"/>judice my following <hi>Verſes,</hi> by the <hi>bold</hi> errours of foregoing <hi>Proſe,</hi> did I not a little conſult my own <hi>ſatisfaction</hi> (which though it may reſemble what we term a <hi>Womans</hi> reaſon yet is the rule by which every <hi>man</hi> ſquares his actions) and did I not likewiſe know that it is ordinary in <hi>Common-wealths</hi> (eſpecially <hi>that</hi> we attribute to <hi>Learning)</hi> to have the <hi>many</hi> pride themſelves in the guilded <hi>Liberty</hi> of <hi>voting</hi> what they pleaſe, but in the mean time the iſſue and ſucceſs of affairs, (yea even the <hi>opinions</hi> of the <hi>People)</hi> are regulated by the <hi>Judgment</hi> of a very <hi>few.</hi> Not but that I have been too great a <hi>ſinner</hi> in this kind, to be aſſur'd of my thorough <hi>converſion:</hi> And therefore as my <hi>faith</hi> bids me quit the <hi>Romiſh</hi> new fan<g ref="char:EOLhyphen"/>gl'd abſurdity of thinking any thing deducible from the <hi>pra<g ref="char:EOLhyphen"/>ctice</hi> or <hi>opinion</hi> of a <hi>multitude;</hi> ſo my reaſon tells me, I muſt become a <hi>Proteſtant</hi> in <hi>Poetry,</hi> confeſs that when I have done the beſt I can, there is no confiding in my own <hi>me<g ref="char:EOLhyphen"/>rits,</hi> and wholly caſt my ſelf upon the <hi>mercy</hi> of my Reader. To conclude, I know well that the nature of <hi>Vertue</hi> conſiſts not in a meer negation of what's notoriouſly <hi>bad;</hi> it muſt be diſtinguiſh'd by its oppoſite qualities, have its poſitive and real perfections; and that <hi>Zealot</hi> was very impudent, who <hi>chal<g ref="char:EOLhyphen"/>leng'd</hi> acceptance upon the account of his being not quite ſo bad as the <hi>very worſt.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:100023:4"/>
+            <head>TO THE REVEREND D<hi rend="sup">R</hi> FELL, DEAN of Ch: Ch: at his returne in <hi>May</hi> 1666 from the <hi>WEST MINSTER ELECTION.</hi>
+            </head>
+            <lg>
+               <l>AS a wiſe Victor ſtill purſues new Fame,</l>
+               <l>Adds to his Empire, and extends his Name:</l>
+               <l>Becauſe he knows and dreads the certain Fate</l>
+               <l>Of whatſoever's Eminent or Great;</l>
+               <l>Which if their farther progreſs be delay'd</l>
+               <l>(As <hi>Planets</hi> when they ſtop) prove Retrograde.</l>
+               <l>(For States and Kingdomes are revers'd and hurl'd</l>
+               <l>Like thoſe great Lights that influence the world.)</l>
+               <l>So (worthy Sir) that new acceſſe and gain</l>
+               <l>Your acquir'd Empires greatneſs may maintain,</l>
+               <l>Freſh Plots and Stratagems your wiſdome finds</l>
+               <l>To conquer Hearts and captivate new minds.</l>
+               <pb n="2" facs="tcp:100023:5"/>
+               <l>While the deſignes of your unſtinted ſoul,</l>
+               <l>Nor War can croſs, nor Peſtilence controul.</l>
+               <l>Such fervent zeal did Prieſts of old incline</l>
+               <l>To quench a God or graſp a burning ſhrine.</l>
+               <l>And you Sir, like devout <hi>Metellus</hi> came</l>
+               <l>To ſnatch a <hi>Pallas</hi> from ſurrounding <hi>flame:</hi>
+               </l>
+               <l>Your vertues rightly tim'd, you wiſely thence</l>
+               <l>Enhance their value at the ſame expence.</l>
+               <l>You graſp ſhort liv'd occaſion ere ſhe dyes.</l>
+               <l>Prevent addreſs, and reſcue by ſurprize.</l>
+               <l>Others Devotion only comes, and flits;</l>
+               <l>And their zeal warmes them but like <hi>Ague</hi> fits:</l>
+               <l>Yours conſtant is, its motion ſtill the ſame.</l>
+               <l>Nimble and reſtleſs like aſpiring flame.</l>
+               <l>So the <hi>Suns</hi> Heat and active Influence,</l>
+               <l>Do Life and Vigour conſtantly diſpenſe.</l>
+               <l>And when from us his cheerfull Beam declines,</l>
+               <l>'Tis to hatch Gold, and ripen <hi>Indian</hi> Mines.</l>
+               <l>Through Sickneſs, Tumult, and whatever waits</l>
+               <l>On factious Cities, and diſeaſed States,</l>
+               <pb n="3" facs="tcp:100023:5"/>
+               <l>To paſs ſo free, ſecure, and unconfin'd;</l>
+               <l>Argues the greatneſs of your Godlike Mind.</l>
+               <l>Thus the <hi>Heav'ns</hi> Progreſs undiſturb'd appears</l>
+               <l>'Midſt humane troubles, and diſorder'd fears.</l>
+               <l>Earths low diſaſters no obſtructions bring</l>
+               <l>To ſtop their <hi>Bounty</hi> or retard the <hi>Spring.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And now (Great Sir) while <hi>Orators</hi> encloſe</l>
+               <l>Their Gratulations in looſer <hi>Proſe.</hi>
+               </l>
+               <l>Will not their boundleſs Liberty reſigne,</l>
+               <l>Shackle their Duty, or their Joys confine,</l>
+               <l>But long Pathetick Sentences rehearſe:</l>
+               <l>Your Obligations fetter me in <hi>Verſe.</hi>
+               </l>
+               <l>Their grave Harangues with Intereſt combine;</l>
+               <l>And their ſet-ſpeech courts trivial deſigne.</l>
+               <l>Our Thoughts are Innocent, and are ſecure;</l>
+               <l>Like unmixt <hi>Elements</hi> both <hi>Calm</hi> and <hi>Pure.</hi>
+               </l>
+               <l>
+                  <hi>Muſick</hi> that does <hi>Poetick</hi> Souls employ,</l>
+               <l>Is the moſt natural reſult of Joy.</l>
+            </lg>
+            <lg>
+               <l>Then welcome (Sir) unto a place is grown</l>
+               <l>To be a ſtructure every way your own.</l>
+               <pb n="4" facs="tcp:100023:6"/>
+               <l>Whoſe few years Bounty has improv'd it more</l>
+               <l>Then tedious Reigns of profuſe Kings before.</l>
+               <l>Your Glory 'tis to Build ſo brave a Pile:</l>
+               <l>And them the <hi>Founders</hi> we may truly Stile.</l>
+               <l>With far leſs Structures Pilgrime Princes buy</l>
+               <l>The favour of an angry Deity.</l>
+               <l>And Superſtitious deceaſing Kings</l>
+               <l>(Who think that every Quarry <hi>Blood-ſtones</hi> brings)</l>
+               <l>Leſs coſtly Piles to ſtaunch the wounds intend</l>
+               <l>Of a ſlain Brother or a murther'd Friend.</l>
+               <l>How ſhall we gueſs your Pieties intent?</l>
+               <l>At once ſo liberal and Innocent!</l>
+               <l>Had the Great <hi>Woolſey</hi>'s ſoul Prophetick been,</l>
+               <l>And a ſo neer ſucceeding Age foreſeen;</l>
+               <l>Should harbour a Devotion ſo profuſe,</l>
+               <l>Such a ſtupendious Piety produce;</l>
+               <l>As void of Oſtentation calmly drowns</l>
+               <l>The Gifts of Kings and largeſſes of Crowns;</l>
+               <l>And free from Noiſe and Tumult, has o'recome</l>
+               <l>The wealth of <hi>England</hi> and the pride of <hi>Rome.</hi>
+               </l>
+               <pb n="5" facs="tcp:100023:6"/>
+               <l>And (though it have, nor State nor Kingdom drain'd,</l>
+               <l>Nor is by <hi>laviſh Majeſty</hi> maintain'd)</l>
+               <l>Outvies the Greatneſs of his <hi>Power</hi> and <hi>Mind;</hi>
+               </l>
+               <l>All that he <hi>did,</hi> and all that he <hi>deſign'd:</hi>
+               </l>
+               <l>This had reſtrain'd his Pride, and made him know</l>
+               <l>His projects mean and his ambition low.</l>
+               <l>Diſguis'd his great looks in a baſhful frown;</l>
+               <l>And clad his face more <hi>Scarlet</hi> then his gown.</l>
+            </lg>
+            <lg>
+               <l>But (Sir) your Modeſty your Fame diſplayes,</l>
+               <l>And puts no limits to your ſpreading rayes.</l>
+               <l>(Which far tranſcend the narrow laws of Verſe,</l>
+               <l>And muſt be boundleſs as the Univerſe.]</l>
+               <l>Your Merits all Encomiums debar,</l>
+               <l>He ſtill ſhoots low that levels at a Star.</l>
+               <l>And he that will your meaneſt action tell,</l>
+               <l>Under your nearer influence muſt dwell.</l>
+               <l>This may the pooreſt thoughts exalt, and raiſe</l>
+               <l>To the ſublime <hi>Ideas</hi> of your Praiſe.</l>
+               <l>Inſtruct our verſe from your great works to draw</l>
+               <l>A Maid-like Beauty, and a Man-like aw.</l>
+               <pb n="6" facs="tcp:100023:7"/>
+               <l>With graceful Majeſty our numbers ſtream:</l>
+               <l>Both ſmooth and ſtately like their lofty Theme,</l>
+               <l>This may at length inform us how to Sing,</l>
+               <l>A <hi>Cardinal</hi> tranſcended and a <hi>King.</hi>
+               </l>
+               <l>The mighty <hi>Maro</hi> (while in Country cells)</l>
+               <l>Thus writes as low and narrow as he dwells.</l>
+               <l>Till <hi>Romes</hi> high fabricks elevate his Stile,</l>
+               <l>And teach him build a like Majeſtick Pile.</l>
+               <l>He's to her greatneſs Parallel and juſt,</l>
+               <l>While <hi>Caeſar</hi>'s Palace makes his Muſe auguſt.</l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <pb n="7" facs="tcp:100023:7"/>
+            <head>AN EPITAPH Upon a Gentleman aged above Sixty, he died as he liv'd, Faithful to the Church, and Loyal to the King, lies Buri<g ref="char:EOLhyphen"/>ed with a Son of about nine years of Age.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>IF to be Good, when Vertue was a Crime,</l>
+               <l>If on abandon'd Piety to wait,</l>
+               <l>Pity and prop thoſe ruines others climbe,</l>
+               <l>Were to be Famous, Popular and Great:</l>
+               <l>(Reader,) this <hi>weeping</hi> Marble had confin'd</l>
+               <l>The univerſal ſorrow of Mankind.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>For here lies one, whoſe Faith unſhaken ſtood,</l>
+               <l>By mighty Intereſt though oft alarm'd.</l>
+               <l>Not threeſcore Icy winters chil'd his blood:</l>
+               <l>While true Devotion loyalty ſtill warm'd.</l>
+               <l>(Like <hi>Wines</hi> when they of youthful fume abate)</l>
+               <l>Time gave him vigour, and more uſeful heat.</l>
+            </lg>
+            <pb n="8" facs="tcp:100023:8"/>
+            <lg n="3">
+               <head>III.</head>
+               <l>Led by a clearer Zeal, he ſhun'd thoſe <hi>lights,</hi>
+               </l>
+               <l>Which in Religion's <hi>night</hi> miſguide the moſt.</l>
+               <l>Whom fear deceives, and ignorance affrights;</l>
+               <l>At length in diſmal Precipices loſt.</l>
+               <l>Ne're follow'd a blind faith's fantastick gueſs,</l>
+               <l>Ne're courted Faction in a <hi>Modiſh</hi> dreſs.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Nor wants the verdure of a happy Spring,</l>
+               <l>(The conſtant, Pious wiſh of weeping Verſe.)</l>
+               <l>Here no vain pomp needs loaded baskets bring.</l>
+               <l>That juſt Solemnity might Crown his Hearſe,</l>
+               <l>Death cropt his Son, and ere it was full blown,</l>
+               <l>That <hi>flow'ry ſweetneſs</hi> on his Grave was thrown.</l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <pb n="9" facs="tcp:100023:8"/>
+            <head>An Epitaph upon three Siſters, buried together. Their Edu<g ref="char:EOLhyphen"/>cation was wholly at home; They liv'd Vertuous, and dy'd Marriagable.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>HOld Stranger, let no haſty tear</l>
+               <l>Prophane the greatneſs of our loſs:</l>
+               <l>Light ſigns of ſorrow diſ-appear</l>
+               <l>When ſerious woes the Soul engroſs.</l>
+               <l>And weeping paſſion while with publiſh'd Grief,</l>
+               <l>It pities others, ſeeks its own Relief.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Here lie three Siſters, had what e're</l>
+               <l>The <hi>Triple</hi> Spring of Beauty gives.</l>
+               <l>Colour, Proportion; and an Aire</l>
+               <l>Such as with Beauty breaths, and lives.</l>
+               <l>Their number, friendſhip, and perfections bore</l>
+               <l>Marks of the <hi>Trinity</hi> they ſtill adore.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>No publick <hi>Envy</hi> e're alarm'd,</l>
+               <l>No <hi>flattery</hi> their Beauties fed:</l>
+               <l>No Paint bely'd, no Paſſion warm'd</l>
+               <l>Their cheeks into a borrow'd red.</l>
+               <l>Deaf to the tempting noiſe of Court and King;</l>
+               <l>And pure as waters in their <hi>Native</hi> Spring.</l>
+            </lg>
+            <lg n="4">
+               <pb n="10" facs="tcp:100023:9"/>
+               <head>IV.</head>
+               <l>Grown up to kindle chaſt deſire,</l>
+               <l>Unfit for frozen ſheets of Lead,</l>
+               <l>Their youthful, ſprightly flames expire;</l>
+               <l>And the Grave cheats the Marria'ge Bed.</l>
+               <l>Juſt ſo deſcending <hi>Goddeſſes</hi> draw near,</l>
+               <l>And midſt poor mans <hi>Embraces</hi> diſ-appear.</l>
+            </lg>
+            <lg n="5">
+               <head>V</head>
+               <l>How frails Perfection, and how vain!</l>
+               <l>The crooked <hi>Oak</hi>'s deform'd and old.</l>
+               <l>Can to a thouſand years attain</l>
+               <l>Through ſommers heat and winters cold.</l>
+               <l>While amidſt Tempeſts that ſecurely grows,</l>
+               <l>Heav'ns warm approaches parch the budding <hi>Roſe.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Declining <hi>Nature</hi> now grows old</l>
+               <l>No doubt, for ſhe through fond preſage</l>
+               <l>Of future poverty lays hold</l>
+               <l>On th' Avarice of thrifty Age:</l>
+               <l>Only poor Beauties now abroad are found,</l>
+               <l>Her Gold and Gems lie <hi>treaſur'd</hi> under <hi>ground.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <pb n="11" facs="tcp:100023:9"/>
+            <head>TO THE Memory of the Incomparable Mr. <hi>Abraham Cowley,</hi> lately Deceaſed.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>AS when ſome matchleſs Monarch dies, ſtraight all</l>
+               <l>Adjoyning <hi>Kings</hi> reſent his haſty fate:</l>
+               <l>With grave Solemnity deplore his fall,</l>
+               <l>VVhich yet their Pow'r enlarges and their State:</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>So while the mighty <hi>Cowley</hi> yields his breath</l>
+               <l>His Neighbours ſorrow in Poetick guiſe;</l>
+               <l>In frequent <hi>Elegies</hi> lament his Death,</l>
+               <l>Though on his Ruines they exſpect to riſe.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>And I, whoſe ſmall <hi>Eſtate</hi> will ſcarce ſupport</l>
+               <l>A mean Repute by Vulgar <hi>Poets</hi> won,</l>
+               <l>Like a profuſe Retainer of the Court</l>
+               <l>Muſt keep the <hi>Faſhion</hi> though I be undone.</l>
+            </lg>
+            <lg n="4">
+               <pb n="12" facs="tcp:100023:10"/>
+               <head>IV.</head>
+               <l>May he whoſe dawning light of early Day</l>
+               <l>Outvy'd the ſplendour moſt Meridians have</l>
+               <l>Deign that a <hi>Tapers</hi> faint officious Ray</l>
+               <l>Do a ſmall act of Duty to his <hi>Grave.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Though vain's the Zeal which Richeſt Gums beſtows,</l>
+               <l>Or ſtrews the Flowers of no common Verſe.</l>
+               <l>For his each leaf does nobler ſweets diſcloſe,</l>
+               <l>And his own <hi>Garden</hi> beſt adorn his Herſe.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Thoſe happy <hi>Simples</hi> reſcue from the Grave,</l>
+               <l>When <hi>Phyſicks</hi> Rules but empty ſuccours bring.</l>
+               <l>From their freſh bloom his conſtant Glories have</l>
+               <l>A lovely Verdure and a laſting Spring.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Nor him unwilling Hiſtories record,</l>
+               <l>'Mongſt thoſe who at great Fame not good arrive;</l>
+               <l>VVhoſe Names are only read to be abhor'd,</l>
+               <l>As Civil <hi>Wars</hi> and ſignal <hi>Plagues</hi> ſurvive.</l>
+            </lg>
+            <lg n="8">
+               <pb n="13" facs="tcp:100023:10"/>
+               <head>VIII.</head>
+               <l>But ſuch a bleſt Eternity attends</l>
+               <l>His works, as is from Spicy Odours bred,</l>
+               <l>VVich ſome fam'd <hi>Herbaliſt</hi> together blends</l>
+               <l>At once to <hi>ſweeten</hi> and <hi>preſerve</hi> the <hi>dead.</hi>
+               </l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>A ruin'd * Palace firſt he rais'd, and then <note place="margin">
+                     <hi>Sommerſet</hi> Houſe.</note>
+               </l>
+               <l>Deſcrib'd a Garden worthy ſuch a Pile.</l>
+               <l>To <hi>Build</hi> and <hi>Plant</hi> with failing Age in ken</l>
+               <l>Deaths fatal Omen wiſe obſervers ſtile.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Yet muſt Experience cancel here her Laws;</l>
+               <l>Thoſe very works ſhall make him deathleſs grow:</l>
+               <l>Thence he new life and youthfull vigour draws;</l>
+               <l>Themſelves obſtructing what they would foreſhow.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Hence then we date our Mighty <hi>Lyricks</hi> Birth,</l>
+               <l>VVhile with him rival Emulation dies.</l>
+               <l>Heav'ns <hi>Harp</hi> ne'r ſets, but ſeems to touch the Earth;</l>
+               <l>Still brighter thence, and greater in its Riſe.</l>
+            </lg>
+            <lg n="12">
+               <pb n="14" facs="tcp:100023:11"/>
+               <head>XII.</head>
+               <l>In Solemn Duty to his Princely Grave,</l>
+               <l>Concern and Prejudice do now expire:</l>
+               <l>VVith the obſervance of an <hi>Eaſtern</hi> ſlave</l>
+               <l>Firſt <hi>light</hi> his Pile, then <hi>leap</hi> into the fire.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>For even they, who (while he liv'd) oppreſs'd</l>
+               <l>His growing Merits and his worth defam'd,</l>
+               <l>Confeſs him now of Modern <hi>Wits</hi> the beſt,</l>
+               <l>And next Immortal <note n="*" place="margin">Buried be<g ref="char:EOLhyphen"/>tween <hi>Chau<g ref="char:EOLhyphen"/>cer &amp; Spencer.</hi>
+                  </note> 
+                  <hi>Spencer</hi> to be nam'd.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>So <hi>Romes</hi> repenting Senate Altars rears</l>
+               <l>And their yet bleeding <hi>Romulus</hi> adore;</l>
+               <l>He their Devotions object ſtraight appears</l>
+               <l>VVho fell the Victim of their <note n="*" place="margin">Fuiſſe quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tum credo ali quos qui diſ<g ref="char:EOLhyphen"/>cerptum Re<g ref="char:EOLhyphen"/>gem Patrum manibus taci<g ref="char:EOLhyphen"/>ti arguerent Liv.</note> Rage before.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>How juſt (ye Gods) was He! though oft arraign'd,</l>
+               <l>Though oft condemn'd by <hi>Wars</hi> ſevereſt Laws;</l>
+               <l>His Hopes diſcarded, and his Honour ſtain'd <note place="margin">Accus'd for his ready compliance with the late Uſurpers.</note>
+               </l>
+               <l>For a too quick * Surrender of his Cauſe.</l>
+            </lg>
+            <lg n="16">
+               <pb n="15" facs="tcp:100023:11"/>
+               <head>XVI.</head>
+               <l>See what weak Crimes do his firſt Faith oppoſe,</l>
+               <l>VVich <hi>Intereſt</hi> and baſe <hi>deſign</hi> atteſt:</l>
+               <l>Like Pious <hi>David</hi> down his Harp he throws</l>
+               <l>VVhen thoſe that hear him are by Rage poſſeſt.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>For firſt in happy Verſe he did deſign</l>
+               <l>The <note n="*" place="margin">A Hiſtory of the Civil Wars.</note> ſeeds of Faction, and the ſource of War:</l>
+               <l>How Piety can with Ambition joyn,</l>
+               <l>And more then Hell <hi>contrive,</hi> Religion <hi>dare.</hi>
+               </l>
+            </lg>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>But after <note n="*" place="margin">In the Pre<g ref="char:EOLhyphen"/>face to his Book.</note> 
+                  <hi>Newburies</hi> twice diſmal Field</l>
+               <l>Rebellions Conqueſt he no longer ſings.</l>
+               <l>His meaſures unto wild diſorder yield,</l>
+               <l>And <hi>Englands</hi> weeping <hi>moiſture</hi> cracks his ſtrings.</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>Strong fate the vulgar unto Ruine led,</l>
+               <l>Diſeaſe their Meat, diſtemper was their Drink:</l>
+               <l>Now o're the <hi>Body</hi> was it too far ſpred</l>
+               <l>To deem the <hi>Tetter</hi> curable by <hi>Ink.</hi>
+               </l>
+            </lg>
+            <lg n="20">
+               <pb n="16" facs="tcp:100023:12"/>
+               <head>XX.</head>
+               <l>Bold Treaſons matchleſſe Triumphs he had ſeen,</l>
+               <l>Ere from the War his Loyal Pen retir'd:</l>
+               <l>Thought Poetry had real <hi>fury</hi> been,</l>
+               <l>And no feign'd <hi>madneſs,</hi> now to be Inſpir'd.</l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>And therefore knowing Time alone defeats</l>
+               <l>The force of Floods by haſty Torrents fed,</l>
+               <l>(Like a foyl'd Prince) with <hi>Rebels</hi> wiſely treats:</l>
+               <l>By feign'd Compliance unto Conqueſt led.</l>
+            </lg>
+            <lg n="22">
+               <head>XXII.</head>
+               <l>Unhappy man, whoſe miſeries ne'r ceaſe!</l>
+               <l>On whom kind Fortune ſcarce beſtows one ſmile!</l>
+               <l>His Loyalty is paid with Court-diſgrace,</l>
+               <l>And a Retirement bitter as Exile.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>Yet he's ne'r chang'd by Sorrows or by Time:</l>
+               <l>His rever'd Prince does in his weeping Eyes</l>
+               <l>Appear more Sacred ſtill, and more ſublime;</l>
+               <l>As <hi>heights</hi> at <hi>diſtance</hi> ſeem to reach the Skies,</l>
+            </lg>
+            <lg n="24">
+               <pb n="17" facs="tcp:100023:12"/>
+               <head>XXIV.</head>
+               <l>He thought on Pious <hi>Davids</hi> mighty Name,</l>
+               <l>Whom once his Muſe ſo happily did Sing:</l>
+               <l>And deem'd it Treaſon 'gainſt his Princely Theme</l>
+               <l>Ought ſhould divide the <hi>Poet</hi> and the <hi>King.</hi>
+               </l>
+            </lg>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>Curſt thoſe, who (like the <hi>German</hi> 
+                  <note n="*" place="margin">Who found our Gun<g ref="char:EOLhyphen"/>powder,</note> Monck) invent</l>
+               <l>The ſeeds of Ruine in their fatal Cells:</l>
+               <l>Whoſe Leiſure's on deſigns of Tumult bent,</l>
+               <l>And on the Deaths of tardy Ages dwells.</l>
+            </lg>
+            <lg n="26">
+               <head>XXVI.</head>
+               <l>While nought thoſe Rebel diſcontented Souls.</l>
+               <l>But diſmal thoughts of Stabs and Drugs poſſeſs,</l>
+               <l>By <hi>Phyſicks</hi> aid, Deaths Empire he controuls,</l>
+               <l>And does thoſe ills which they deſign, redreſs.</l>
+            </lg>
+            <lg n="27">
+               <head>XXVII.</head>
+               <l>He from the Noiſe and Injuries of Court,</l>
+               <l>Does only ſo to ſilent Groves repair,</l>
+               <l>As half-tir'd Paſſengers to <hi>Shades</hi> reſort</l>
+               <l>From the offenſive fury of the Air.</l>
+            </lg>
+            <lg n="28">
+               <pb n="18" facs="tcp:100023:13" rendition="simple:additions"/>
+               <head>XXVIII.</head>
+               <l>Here his <hi>Pindarick</hi> Muſe ſo bravely foar'd,</l>
+               <l>Commended others and her own fate mourn'd,</l>
+               <l>Long abſent vertue ſeem'd to Earth reſtord,</l>
+               <l>And Poetry unto the <hi>Woods</hi> return'd.</l>
+            </lg>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>Nor did the Learned World e're think him leſs;</l>
+               <l>(The fate of all great Perſons in diſgrace)</l>
+               <l>None there did his commanding worth depreſs,</l>
+               <l>Or his Supream Authority diſplace.</l>
+            </lg>
+            <lg n="30">
+               <head>XXX.</head>
+               <l>Him ſtill their Guide ſucceeding Wits propound,</l>
+               <l>And thoſe that beſt approach him Fame commends.</l>
+               <l>His Royal ſtamp on baſeſt Mettals found</l>
+               <l>Together <hi>value</hi> and <hi>reſemblance</hi> lends.</l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>So, <hi>near</hi> his <hi>Death</hi> ſome recluſe Prince gives Law,</l>
+               <l>When Vertue's heighten'd by Romantique Lore:</l>
+               <l>His <hi>cloyſter'd</hi> Majeſty retains that aw</l>
+               <l>By which his <hi>Edicts</hi> rul'd the world before.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100023:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
